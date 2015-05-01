@@ -1,0 +1,17 @@
+{
+  "name": "concurrency",
+  "version": "0.0.1",
+  "description": "Concurrency library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bluebird": "^2.9.25",
+    "lodash": "^3.7.0",
+    "uuid": "^2.0.1"
+  }
+}
